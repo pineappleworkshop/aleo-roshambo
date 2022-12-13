@@ -1,0 +1,10 @@
+{
+    "program": "roshambo.aleo",
+    "version": "0.0.0",
+    "description": "",
+    "development": {
+        "private_key": "APrivateKey1zkp6UYaSeP5a6rzHyc74PYGHWKmPXdTdujbYSH2GaArTdR8",
+        "address": "aleo1zwad45zhcuwl6k04yltssk7nplpmystc73dccwp5nzqrqasq9g9szu20vu"
+    },
+    "license": "MIT"
+}
