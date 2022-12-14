@@ -1,5 +1,7 @@
 program challenge.aleo;
 
+// todo: update challenge "isAccepted"
+
 record challenge:
     owner as address.private;
     gates as u64.private;
