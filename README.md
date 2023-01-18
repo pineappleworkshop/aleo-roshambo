@@ -147,6 +147,7 @@ $ aleo run complete_challenge 0u64 12345u64 '{
 
 output:
 
+```bash
 {
   owner: aleo182l20qx8gns0j9339j2m4zqj4zqhqhvyrsp35hu5n956c2gyagpq3wycdk.private,
   gates: 0u64.private,
